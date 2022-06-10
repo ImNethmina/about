@@ -1,4 +1,4 @@
-<h1 align="center">🏁 Files of my Github Page</h1>
+<h1 align="center"><b><u>Files of my Github Page</u></b></h1>
   
 <h2 align="center">💙 Check it out: <a href="https://imnethmina.github.io/about/">About Me</a> 💙</h2>  
 
