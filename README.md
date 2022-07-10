@@ -1,4 +1,4 @@
-<h1 align="center">Source code of my Github Page</h1>
+<h1 align="center">The Repository created for Github Page</h1>
   
 <h2 align="center">💙 Check it out: <a href="https://imnethmina.github.io/about/">About Me</a> 💙</h2>  
 
